@@ -1,6 +1,6 @@
 # 🧪 Always Push Never Test
 
-> *“If it compiles, ship it. If it breaks, blame the intern.”*
+> *“If it compiles, ship it. If it breaks, blame the naveed.”*
 
 Welcome to **Always Push Never Test** — a proud collective of chaotic good developers who believe testing is *optional* and that production is the *only* staging environment worth trusting.
 
